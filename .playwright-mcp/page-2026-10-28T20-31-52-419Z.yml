@@ -1,0 +1,61 @@
+- generic [active] [ref=f39e1]:
+  - banner [ref=f39e2]:
+    - generic [ref=f39e3]:
+      - navigation [ref=f39e4]:
+        - generic [ref=f39e5]:
+          - link "Post Bergedorf" [ref=f39e6] [cursor=pointer]:
+            - /url: /
+          - list [ref=f39e8]:
+            - listitem [ref=f39e9]:
+              - link "About" [ref=f39e10] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f39e11]:
+              - link "Products" [ref=f39e12] [cursor=pointer]:
+                - /url: /products/
+            - listitem [ref=f39e13]:
+              - link "Impressum" [ref=f39e14] [cursor=pointer]:
+                - /url: /impressum/
+      - heading "Home" [level=1] [ref=f39e16]
+  - main [ref=f39e17]:
+    - article [ref=f39e18]:
+      - paragraph [ref=f39e19]: Welcome to Post Bergedorf. Please use the main menu to visit About, Products, and Impressum.
+    - generic [ref=f39e21]:
+      - article [ref=f39e23]:
+        - generic [ref=f39e26]:
+          - time [ref=f39e27]: October 28, 2026
+          - heading [level=1] [ref=f39e28]:
+            - link "Impressum" [ref=f39e29] [cursor=pointer]:
+              - /url: /impressum/
+          - generic [ref=f39e30]:
+            - paragraph [ref=f39e31]: This website is operated by Post Bergedorf and maintained in Hamburg, Germany. For legal inquiries, please contact us by email or postal mail using the official company details. We are responsible for the content of this site and strive to keep all information accurate and up to date.
+            - paragraph [ref=f39e32]:
+              - img "Impressum illustration" [ref=f39e33]
+          - link "read more" [ref=f39e34] [cursor=pointer]:
+            - /url: /impressum/
+      - article [ref=f39e36]:
+        - generic [ref=f39e39]:
+          - time [ref=f39e40]: October 28, 2026
+          - heading [level=1] [ref=f39e41]:
+            - link "Products" [ref=f39e42] [cursor=pointer]:
+              - /url: /products/
+          - generic [ref=f39e43]:
+            - paragraph [ref=f39e44]: We offer modern websites, lightweight web apps, and scalable backend services. Each product is designed to be simple for users and efficient for your team. We also provide maintenance and updates so your solution keeps improving over time.
+            - paragraph [ref=f39e45]:
+              - img "Products illustration" [ref=f39e46]
+          - link "read more" [ref=f39e47] [cursor=pointer]:
+            - /url: /products/
+      - article [ref=f39e49]:
+        - generic [ref=f39e52]:
+          - time [ref=f39e53]: October 28, 2026
+          - heading [level=1] [ref=f39e54]:
+            - link "About" [ref=f39e55] [cursor=pointer]:
+              - /url: /about/
+          - generic [ref=f39e56]:
+            - paragraph [ref=f39e57]: Our company was founded to build practical digital solutions for local businesses. We focus on clarity, reliability, and close collaboration in every project. Our team combines design, engineering, and support to deliver results that last.
+            - paragraph [ref=f39e58]:
+              - img "About illustration" [ref=f39e59]
+          - link "read more" [ref=f39e60] [cursor=pointer]:
+            - /url: /about/
+  - contentinfo [ref=f39e61]:
+    - link "© Post Bergedorf 2026" [ref=f39e63] [cursor=pointer]:
+      - /url: http://localhost:1313/

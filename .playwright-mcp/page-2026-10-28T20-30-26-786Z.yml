@@ -1,0 +1,30 @@
+- generic [active] [ref=f27e1]:
+  - banner [ref=f27e2]:
+    - navigation [ref=f27e4]:
+      - generic [ref=f27e5]:
+        - link "Post Bergedorf" [ref=f27e6] [cursor=pointer]:
+          - /url: /
+        - list [ref=f27e8]:
+          - listitem [ref=f27e9]:
+            - link "About" [ref=f27e10] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=f27e11]:
+            - link "Products" [ref=f27e12] [cursor=pointer]:
+              - /url: /products/
+          - listitem [ref=f27e13]:
+            - link "Impressum" [ref=f27e14] [cursor=pointer]:
+              - /url: /impressum/
+  - main [ref=f27e15]:
+    - article [ref=f27e16]:
+      - generic [ref=f27e17]:
+        - heading "About" [level=1] [ref=f27e18]
+        - time [ref=f27e19]: October 28, 2026
+      - generic [ref=f27e20]:
+        - paragraph [ref=f27e21]: Our company was founded to build practical digital solutions for local businesses. We focus on clarity, reliability, and close collaboration in every project. Our team combines design, engineering, and support to deliver results that last.
+        - paragraph [ref=f27e22]:
+          - img "About illustration" [ref=f27e23]
+        - list
+        - list
+  - contentinfo [ref=f27e24]:
+    - link "© Post Bergedorf 2026" [ref=f27e26] [cursor=pointer]:
+      - /url: http://localhost:1313/

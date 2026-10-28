@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Post Bergedorf'
+theme = 'ananke'
+
+[[menu.main]]
+name = 'About'
+url = '/about/'
+weight = 1
+
+[[menu.main]]
+name = 'Products'
+url = '/products/'
+weight = 2
+
+[[menu.main]]
+name = 'Impressum'
+url = '/impressum/'
+weight = 3
+
+[params.ananke]
+custom_css = ['friendly-font.css']
+show_recent_posts = false

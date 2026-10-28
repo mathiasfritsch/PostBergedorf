@@ -1,0 +1,30 @@
+- generic [active] [ref=f25e1]:
+  - banner [ref=f25e2]:
+    - navigation [ref=f25e4]:
+      - generic [ref=f25e5]:
+        - link "Post Bergedorf" [ref=f25e6] [cursor=pointer]:
+          - /url: /
+        - list [ref=f25e8]:
+          - listitem [ref=f25e9]:
+            - link "About" [ref=f25e10] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=f25e11]:
+            - link "Products" [ref=f25e12] [cursor=pointer]:
+              - /url: /products/
+          - listitem [ref=f25e13]:
+            - link "Impressum" [ref=f25e14] [cursor=pointer]:
+              - /url: /impressum/
+  - main [ref=f25e15]:
+    - article [ref=f25e16]:
+      - generic [ref=f25e17]:
+        - heading "Products" [level=1] [ref=f25e18]
+        - time [ref=f25e19]: October 28, 2026
+      - generic [ref=f25e20]:
+        - paragraph [ref=f25e21]: We offer modern websites, lightweight web apps, and scalable backend services. Each product is designed to be simple for users and efficient for your team. We also provide maintenance and updates so your solution keeps improving over time.
+        - paragraph [ref=f25e22]:
+          - img "Products illustration" [ref=f25e23]
+        - list
+        - list
+  - contentinfo [ref=f25e24]:
+    - link "© Post Bergedorf 2026" [ref=f25e26] [cursor=pointer]:
+      - /url: http://localhost:1313/

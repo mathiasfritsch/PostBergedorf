@@ -1,0 +1,30 @@
+- generic [active] [ref=f35e1]:
+  - banner [ref=f35e2]:
+    - navigation [ref=f35e4]:
+      - generic [ref=f35e5]:
+        - link "Post Bergedorf" [ref=f35e6] [cursor=pointer]:
+          - /url: /
+        - list [ref=f35e8]:
+          - listitem [ref=f35e9]:
+            - link "About" [ref=f35e10] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=f35e11]:
+            - link "Products" [ref=f35e12] [cursor=pointer]:
+              - /url: /products/
+          - listitem [ref=f35e13]:
+            - link "Impressum" [ref=f35e14] [cursor=pointer]:
+              - /url: /impressum/
+  - main [ref=f35e15]:
+    - article [ref=f35e16]:
+      - generic [ref=f35e17]:
+        - heading "Impressum" [level=1] [ref=f35e18]
+        - time [ref=f35e19]: October 28, 2026
+      - generic [ref=f35e20]:
+        - paragraph [ref=f35e21]: This website is operated by Post Bergedorf and maintained in Hamburg, Germany. For legal inquiries, please contact us by email or postal mail using the official company details. We are responsible for the content of this site and strive to keep all information accurate and up to date.
+        - paragraph [ref=f35e22]:
+          - img "Impressum illustration" [ref=f35e23]
+        - list
+        - list
+  - contentinfo [ref=f35e24]:
+    - link "© Post Bergedorf 2026" [ref=f35e26] [cursor=pointer]:
+      - /url: http://localhost:1313/

@@ -1,0 +1,24 @@
+- generic [active] [ref=f55e1]:
+  - banner [ref=f55e2]:
+    - generic [ref=f55e3]:
+      - navigation [ref=f55e4]:
+        - generic [ref=f55e5]:
+          - link "Post Bergedorf" [ref=f55e6] [cursor=pointer]:
+            - /url: /
+          - list [ref=f55e8]:
+            - listitem [ref=f55e9]:
+              - link "About" [ref=f55e10] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f55e11]:
+              - link "Products" [ref=f55e12] [cursor=pointer]:
+                - /url: /products/
+            - listitem [ref=f55e13]:
+              - link "Impressum" [ref=f55e14] [cursor=pointer]:
+                - /url: /impressum/
+      - heading "Home" [level=1] [ref=f55e16]
+  - main [ref=f55e17]:
+    - article [ref=f55e18]:
+      - paragraph [ref=f55e19]: Welcome to Post Bergedorf. We are happy to have you here.
+  - contentinfo [ref=f55e20]:
+    - link "© Post Bergedorf 2026" [ref=f55e22] [cursor=pointer]:
+      - /url: http://localhost:1313/
