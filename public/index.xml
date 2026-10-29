@@ -1,38 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Home on Post Bergedorf</title>
+		<title>Post-SV Bergedorf e.V.</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content in Home on Post Bergedorf</description>
+		<description>Recent content on Post-SV Bergedorf e.V.</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>de-de</language>
 		
 		
 		
 		
-			<lastBuildDate>Wed, 28 Oct 2026 21:24:24 +0100</lastBuildDate>
+			<lastBuildDate>Wed, 28 Oct 2026 22:12:00 +0100</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Impressum</title>
 				<link>http://localhost:1313/impressum/</link>
-				<pubDate>Wed, 28 Oct 2026 21:24:24 +0100</pubDate>
+				<pubDate>Wed, 28 Oct 2026 22:12:00 +0100</pubDate>
 				<guid>http://localhost:1313/impressum/</guid>
-				<description>&lt;p&gt;This website is operated by Post Bergedorf and maintained in Hamburg, Germany.&lt;br&gt;&#xA;For legal inquiries, please contact us by email or postal mail using the official company details.&lt;br&gt;&#xA;We are responsible for the content of this site and strive to keep all information accurate and up to date.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/impressum.svg&#34; alt=&#34;Impressum illustration&#34;&gt;&lt;/p&gt;</description>
+				<description>&lt;h2&gt;Angaben gemäß § 5 DDG&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Post-Sportverein Bergedorf e.V.&lt;br&gt;Grandkoppel 19&lt;br&gt;21031 Hamburg&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;Vertreten durch&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Der geschäftsführende Vorstand:&lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;1. Vorsitzender: Hans-Georg Wahrburg&lt;/li&gt;&#xD;&#xA;&lt;li&gt;2. Vorsitzender: Norbert Muschiol&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;h3&gt;Kontakt&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Telefon: 040 738 81 53&lt;br&gt;Mobil: 0176 48 79 46 04&lt;br&gt;E-Mail: hg.wahrburg@gmx.de&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;Registereintrag&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Eintragung im Vereinsregister.&lt;br&gt;Registergericht: Amtsgericht Hamburg&lt;br&gt;Registernummer: [Registernummer eintragen]&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;Umsatzsteuer-Identifikationsnummer&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:&lt;br&gt;[USt-IdNr., falls vorhanden]&lt;/p&gt;&#xD;&#xA;&lt;h3&gt;Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Hans-Georg Wahrburg&lt;br&gt;Grandkoppel 19, 21031 Hamburg&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Products</title>
-				<link>http://localhost:1313/products/</link>
-				<pubDate>Wed, 28 Oct 2026 21:24:24 +0100</pubDate>
-				<guid>http://localhost:1313/products/</guid>
-				<description>&lt;p&gt;We offer modern websites, lightweight web apps, and scalable backend services.&lt;br&gt;&#xA;Each product is designed to be simple for users and efficient for your team.&lt;br&gt;&#xA;We also provide maintenance and updates so your solution keeps improving over time.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/products.svg&#34; alt=&#34;Products illustration&#34;&gt;&lt;/p&gt;</description>
+				<title>Badminton</title>
+				<link>http://localhost:1313/badminton/</link>
+				<pubDate>Mon, 26 Oct 2026 22:46:19 +0100</pubDate>
+				<guid>http://localhost:1313/badminton/</guid>
+				<description>&lt;p&gt;Jeden Mittwoch von 18:00 bis 22:00 Uhr in der blauen Sporthalle der Stadtteilschule Lohbrügge, Binnenfeldredder 7 in Lohbrügge.&lt;/p&gt;&#xA;&lt;p&gt;Nähere Infos von der Spartenleiterin Inna Zubarev.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>About</title>
-				<link>http://localhost:1313/about/</link>
-				<pubDate>Wed, 28 Oct 2026 21:24:18 +0100</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;Our company was founded to build practical digital solutions for local businesses.&lt;br&gt;&#xA;We focus on clarity, reliability, and close collaboration in every project.&lt;br&gt;&#xA;Our team combines design, engineering, and support to deliver results that last.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/about.svg&#34; alt=&#34;About illustration&#34;&gt;&lt;/p&gt;</description>
+				<title>Kontakt</title>
+				<link>http://localhost:1313/kontakt/</link>
+				<pubDate>Mon, 26 Oct 2026 22:46:19 +0100</pubDate>
+				<guid>http://localhost:1313/kontakt/</guid>
+				<description>&lt;h3&gt;Geschäftsstelle&lt;/h3&gt;&#xA;&lt;p&gt;Post-SV Bergedorf e.V.&lt;br&gt;Grandkoppel 19, 21031 Hamburg&lt;/p&gt;&#xA;&lt;p&gt;Tel.: 040 738 81 53&lt;br&gt;Mobil: 0176 48 79 46 04&lt;br&gt;E-Mail: hg.wahrburg@gmx.de&lt;/p&gt;&#xA;&lt;h3&gt;Bankverbindung&lt;/h3&gt;&#xA;&lt;p&gt;Postbank Hamburg&lt;br&gt;IBAN: DE31 2001 0020 0059 6952 06&lt;br&gt;BIC: PBNKDEFF&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Skat</title>
+				<link>http://localhost:1313/skat/</link>
+				<pubDate>Mon, 26 Oct 2026 22:46:19 +0100</pubDate>
+				<guid>http://localhost:1313/skat/</guid>
+				<description>&lt;p&gt;Jeden 2. und 4. Mittwoch des Monats ab 14:30 Uhr im Westibül in Bergedorf-West.&lt;/p&gt;&#xA;&lt;p&gt;Nähere Infos vom Spartenleiter Herbert Hoffmann.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tennis</title>
+				<link>http://localhost:1313/tennis/</link>
+				<pubDate>Mon, 26 Oct 2026 22:46:19 +0100</pubDate>
+				<guid>http://localhost:1313/tennis/</guid>
+				<description>&lt;p&gt;Jeden Mittwoch Training und Wettkampf in der Tennisanlage Börnsen.&lt;/p&gt;&#xA;&lt;p&gt;Nähere Infos von der Spartenleiterin Jutta Kugler.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Über uns</title>
+				<link>http://localhost:1313/ueber-uns/</link>
+				<pubDate>Mon, 26 Oct 2026 22:46:19 +0100</pubDate>
+				<guid>http://localhost:1313/ueber-uns/</guid>
+				<description>&lt;h2&gt;Der Post-Sportverein Bergedorf e.V.&lt;/h2&gt;&#xA;&lt;p&gt;Der Post-Sportverein Bergedorf ist offen für jedermann – nicht nur für Post- oder Telekom-Angehörige.&lt;/p&gt;&#xA;&lt;p&gt;Der Verein ist Mitglied im Betriebssportverband Hamburg (BSV) .&lt;/p&gt;&#xA;&lt;h3&gt;Chronik&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11.03.1949 – Gründung der „Betriebssportgruppe Postamt Bergedorf“ (1956 wieder aufgelöst)&lt;/li&gt;&#xA;&lt;li&gt;01.03.1962 – Neugründung der „Betriebssportgemeinschaft Postamt Bergedorf“&lt;/li&gt;&#xA;&lt;li&gt;1969 – Namensänderung in „BSG Post Bergedorf“&lt;/li&gt;&#xA;&lt;li&gt;1983 – Namensänderung in „Post-Sportverein Bergedorf e.V.“&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Die Vereinsfarben sind blau-gelb.&lt;/p&gt;&#xA;&lt;h3&gt;Mitgliedschaft und Beiträge&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aktive Mitglieder: 36 € pro Jahr&lt;/li&gt;&#xA;&lt;li&gt;Passive Mitglieder (Fördermitglieder): 9 € pro Jahr&lt;/li&gt;&#xA;&lt;li&gt;Kinder, Jugendliche und in Ausbildung befindliche Personen ohne eigene Einkünfte können beitragsbefreit werden, wenn mindestens ein Elternteil Beitrag zahlt.&lt;/li&gt;&#xA;&lt;li&gt;In den Sparten Tennis und Skat werden zusätzliche Spartenbeiträge erhoben (z. B. für die Miete der Räumlichkeiten).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Vorstand</title>
+				<link>http://localhost:1313/vorstand/</link>
+				<pubDate>Mon, 26 Oct 2026 22:46:19 +0100</pubDate>
+				<guid>http://localhost:1313/vorstand/</guid>
+				<description>&lt;p&gt;Der geschäftsführende Vorstand des Post-SV Bergedorf besteht seit der Wahl auf der Mitgliederversammlung am 27.03.2026 aus folgenden Personen:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1. Vorsitzender: Hans-Georg Wahrburg&lt;/li&gt;&#xA;&lt;li&gt;2. Vorsitzender: Norbert Muschiol&lt;/li&gt;&#xA;&lt;li&gt;Kassenwart: Mathias Fritsch&lt;/li&gt;&#xA;&lt;li&gt;Schriftwartin: Beate Biermann&lt;/li&gt;&#xA;&lt;li&gt;Pressewartin: Reinhild Birkholz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Kontakt zur Geschäftsstelle finden Sie auf der Seite &lt;a href=&#34;http://localhost:1313/kontakt/&#34;&gt;Kontakt&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wandern</title>
+				<link>http://localhost:1313/wandern/</link>
+				<pubDate>Mon, 26 Oct 2026 22:46:19 +0100</pubDate>
+				<guid>http://localhost:1313/wandern/</guid>
+				<description>&lt;p&gt;Jeden Monat eine geführte Wanderung (etwa 8–12 km) in der Umgebung von Hamburg. Wochenendveranstaltungen mit Übernachtung in einfachen Einrichtungen.&lt;/p&gt;&#xA;&lt;p&gt;Nähere Infos vom Spartenleiter Norbert Schmidt.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Schwimmen</title>
+				<link>http://localhost:1313/schwimmen/</link>
+				<pubDate>Mon, 26 Oct 2026 22:12:55 +0100</pubDate>
+				<guid>http://localhost:1313/schwimmen/</guid>
+				<description>&lt;p&gt;Jeden Dienstag und Sonnabend Training im Billebad Bergedorf, mit Teilnahme an Wettkampfveranstaltungen des Betriebssportverbandes Hamburg.&lt;/p&gt;&#xA;&lt;p&gt;Nähere Infos von der Spartenleiterin Beate Biermann.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tischtennis</title>
+				<link>http://localhost:1313/tischtennis/</link>
+				<pubDate>Mon, 26 Oct 2026 22:09:56 +0100</pubDate>
+				<guid>http://localhost:1313/tischtennis/</guid>
+				<description>&lt;p&gt;Jeden Montag, Dienstag und Donnerstag von 18:00 bis 22:00 Uhr, Training und Wettkampf in der Schul-Sporthalle Leuschnerstraße 84 in Lohbrügge.&lt;/p&gt;&#xA;&lt;p&gt;Hier haben wir Platz für 6 Tischtennisplatten, also auch noch genug Platz für Dich und Deine Freunde. Komm einfach vorbei!&lt;/p&gt;&#xA;&lt;p&gt;Wir haben 3 Mannschaften, die an den Punktspielen des BSV Hamburg teilnehmen.&lt;/p&gt;&#xA;&lt;p&gt;Nähere Infos vom Spartenleiter Norbert Muschiol&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Neue Sparte: Badminton</title>
+				<link>http://localhost:1313/post-bergedorf/</link>
+				<pubDate>Mon, 26 Oct 2026 22:05:06 +0100</pubDate>
+				<guid>http://localhost:1313/post-bergedorf/</guid>
+				<description></description>
 			</item>
 	</channel>
 </rss>

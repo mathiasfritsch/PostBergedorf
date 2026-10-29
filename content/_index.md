@@ -1,6 +1,4 @@
 +++
-title = 'Home'
 +++
 
-Welcome to Post Bergedorf.  
-We are happy to have you here.
+<h1>Post-Sportverein Bergedorf: Dein Sportverein in Bergedorf</h1>

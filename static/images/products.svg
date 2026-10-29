@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
-  <rect width="1200" height="675" fill="#0f766e" />
-  <rect x="120" y="220" width="120" height="120" fill="#99f6e4" />
-  <rect x="280" y="220" width="120" height="120" fill="#5eead4" />
-  <rect x="440" y="220" width="120" height="120" fill="#2dd4bf" />
-  <text x="620" y="340" font-family="Arial, sans-serif" font-size="72" fill="#f0fdfa">Products</text>
-</svg>

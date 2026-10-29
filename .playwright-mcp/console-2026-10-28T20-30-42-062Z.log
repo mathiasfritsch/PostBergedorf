@@ -1,2 +1,0 @@
-[   49285ms] [ERROR] Refused to apply style from 'http://127.0.0.1:1313/friendly-font.css' because its MIME type ('text/plain') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://127.0.0.1:1313/impressum/:0
-[   56949ms] [ERROR] Refused to apply style from 'http://127.0.0.1:1313/friendly-font.css' because its MIME type ('text/plain') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://127.0.0.1:1313/impressum/:0

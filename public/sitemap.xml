@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-28T21:24:24+01:00</lastmod>
+    <lastmod>2026-10-28T22:12:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/impressum/</loc>
-    <lastmod>2026-10-28T21:24:24+01:00</lastmod>
+    <lastmod>2026-10-28T22:12:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/badminton/</loc>
+    <lastmod>2026-10-26T22:46:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kontakt/</loc>
+    <lastmod>2026-10-26T22:46:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/skat/</loc>
+    <lastmod>2026-10-26T22:46:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tennis/</loc>
+    <lastmod>2026-10-26T22:46:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ueber-uns/</loc>
+    <lastmod>2026-10-26T22:56:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/vorstand/</loc>
+    <lastmod>2026-10-26T23:02:45+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/wandern/</loc>
+    <lastmod>2026-10-26T22:46:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/schwimmen/</loc>
+    <lastmod>2026-10-26T22:46:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tischtennis/</loc>
+    <lastmod>2026-10-26T23:01:58+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post-bergedorf/</loc>
+    <lastmod>2026-10-26T23:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-28T21:24:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/products/</loc>
-    <lastmod>2026-10-28T21:24:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-10-28T21:24:18+01:00</lastmod>
+    <lastmod>2026-10-26T23:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

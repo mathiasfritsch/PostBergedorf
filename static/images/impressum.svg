@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
-  <rect width="1200" height="675" fill="#7c2d12" />
-  <path d="M170 490h220V200H170z" fill="#fdba74" />
-  <path d="M230 260h100v40H230zm0 70h100v40H230zm0 70h100v40H230z" fill="#9a3412" />
-  <text x="460" y="340" font-family="Arial, sans-serif" font-size="72" fill="#fff7ed">Impressum</text>
-</svg>
