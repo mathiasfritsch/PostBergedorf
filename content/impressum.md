@@ -20,4 +20,6 @@ draft = false
 <p>Eintragung im Vereinsregister.<br>Registergericht: Amtsgericht Hamburg<br>Registernummer: VR 10350</p>
 
 <h3>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h3>
-<p>Mathias Fritsch</p>
+Hans-Georg Wahrburg
+Grandkoppel 19
+21031 Hamburg
