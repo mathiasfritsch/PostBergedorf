@@ -1,0 +1,67 @@
+baseURL = 'https://postbergedorf.pages.dev/'
+locale = 'de-de'
+defaultContentLanguage = 'de'
+title = 'Post-SV Bergedorf e.V.'
+theme = 'ananke'
+
+[[menu.main]]
+name = 'Über uns'
+url = '/ueber-uns/'
+weight = 1
+
+[[menu.main]]
+name = 'Vorstand'
+url = '/vorstand/'
+weight = 2
+
+[[menu.main]]
+name = 'Kontakt'
+url = '/kontakt/'
+weight = 3
+
+[[menu.main]]
+name = 'Badminton'
+url = '/badminton/'
+weight = 4
+
+[[menu.main]]
+name = 'Schwimmen'
+url = '/schwimmen/'
+weight = 5
+
+[[menu.main]]
+name = 'Skat'
+url = '/skat/'
+weight = 6
+
+[[menu.main]]
+name = 'Tennis'
+url = '/tennis/'
+weight = 7
+
+[[menu.main]]
+name = 'Tischtennis'
+url = '/tischtennis/'
+weight = 8
+
+[[menu.main]]
+name = 'Wandern'
+url = '/wandern/'
+weight = 9
+
+[[menu.main]]
+name = 'Impressum'
+url = '/impressum/'
+weight = 10
+
+[[menu.main]]
+name = 'Datenschutz'
+url = '/datenschutz/'
+weight = 11
+
+[params.ananke]
+custom_css = ['friendly-font.css']
+show_recent_posts = false
+
+[markup.goldmark.renderer]
+unsafe = true
