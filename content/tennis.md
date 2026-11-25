@@ -8,4 +8,6 @@ draft = false
 <p>Spieltermine je nach Wunsch von Spartenleiterin geplant.</p>
 <p>Im Augenblick keine Wettkämpfe aber wir sind trotzdem ziemlich gut. :-)</p>
 <p>Kosten orientieren sich an Deiner Spielhäufigkeit und Art (Einzel oder Doppel), sind aber auf alle Fälle extrem günstig</p>
+<p>Wir freuen uns immer über neue MitspielerInnnen: Kommt gerne vorbei</p>
+
 <p>Nähere Infos von der Spartenleiterin Jutta Kugler.</p>
